@@ -1,0 +1,7 @@
+{
+  "name": "SeismeticV2",
+  "description": "A a version of the Seismetic Proxy",
+  "repository": "https://github.com/SeismeticServices/SeismeticV2",
+  "logo": "https://raw.githubusercontent.com/SeismeticServices/SeismeticV2/main/static/uv/public/img/seissmetic.png",
+  "keywords": ["seis", "seismetic"]
+}
